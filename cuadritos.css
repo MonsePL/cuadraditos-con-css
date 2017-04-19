@@ -1,0 +1,78 @@
+.colorf {
+  background-color: #db4f65;
+  padding: 10px;
+  margin: 30px;
+  margin-left: 400px;
+
+}
+
+.colorf2 {
+  background-color: #38332d;
+  padding: 10px;
+  margin: 30px;
+  margin-left: 400px;
+}
+
+
+.rosa1 {
+  background-color:#e1ae94;
+
+}
+
+.rosa2 {
+  background-color:#e27c91;
+
+}
+
+.gris{
+  background-color:#dedbdc;
+
+}
+
+.margen1{
+  margin-left:53px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+.margen2{
+  margin-left:-20px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+
+.margencc{
+  margin-left: 0px;
+  margin-top: auto;
+  position: absolute;
+}
+
+.margenc2{
+  margin-left: 65px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+
+.ancho {
+  height: 300px;
+  width: 300px;
+
+}
+
+.ancho1 {
+  height: 73px;
+  width: 73px;
+
+}
+
+.anchouniq {
+  height: 400px;
+  width: 400px;
+
+}
+
+.dis{
+  display: inline-block;
+}
